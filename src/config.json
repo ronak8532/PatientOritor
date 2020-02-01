@@ -1,0 +1,10 @@
+{
+    "api":{
+        "invokeUrl": ""
+    },
+    "cognito":{
+        "REGION":"us-east-2",
+        "USER_POOL_ID":"us-east-2_w7ZOIiWmL",
+        "APP_CLIENT_ID":"7tial4iq2sr4d25h45sv2299jf"
+    }
+}
